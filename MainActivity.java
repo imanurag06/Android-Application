@@ -10,7 +10,7 @@ import android.widget.ListView;
 
 public class MainActivity extends ListActivity {
 
-    String abc[]={"MainActivity","BluetoothTest","BatteryState","SongList","ContactList","MediaPlayerDemo","LifeCycle","BroadCastTest","ProximityTest","AutoComplete","PreferenceFromXml","FirstActivity","DBTest","Exit"};
+    String abc[]={"MainActivity","BluetoothTest","BatteryState","SongList","ContactList","MediaPlayerDemo","incomingCalls","LifeCycle","BroadCastTest","ProximityTest","AutoComplete","PreferenceFromXml","FirstActivity","DBTest","Exit"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
